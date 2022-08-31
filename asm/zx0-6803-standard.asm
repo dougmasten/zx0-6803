@@ -22,7 +22,7 @@
 
 
 ;------------------------------------------------------------------------------
-; Variables - Use DP memory space
+; Variables - Use On-chip RAM
 ;------------------------------------------------------------------------------
 zx0_bit         equ     $fd             ; bit stream
 zx0_length      equ     $fe             ; copy length (2 bytes)

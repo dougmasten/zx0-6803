@@ -22,7 +22,7 @@
 
 
 ;------------------------------------------------------------------------------
-; Variables - Use DP memory space
+; Variables - Use On-chip RAM
 ;------------------------------------------------------------------------------
 zx0_bit         equ     $fc             ; bit stream
 zx0_elias1      equ     $fd             ; used for fast load of elias (LSB) = 1
